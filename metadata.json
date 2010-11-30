@@ -1,0 +1,29 @@
+{
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "recipes": {
+  },
+  "license": "All rights reserved",
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "providing": {
+  },
+  "dependencies": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "replacing": {
+  },
+  "name": "scaffold",
+  "platforms": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "description": "Installs/Configures scaffold",
+  "version": "0.0.1",
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  }
+}

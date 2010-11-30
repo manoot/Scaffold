@@ -1,0 +1,8 @@
+# Xen Virtual Ethernet
+DEVICE=eth0
+BOOTPROTO=none
+IPADDR=<%= node[:scaffold][:ip_address] %>
+NETMASK=<%= node[:scaffold][:netmask] %>
+ONBOOT=yes
+TYPE=Ethernet
+GATEWAY=<%= node[:scaffold][:gateway] %>
