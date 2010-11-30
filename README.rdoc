@@ -1,8 +1,9 @@
 = DESCRIPTION:
-
+Used to pass server data to chef and configure hostname, ip, fqdn, and network device
 = REQUIREMENTS:
+Citrix Xen Server, Chef, Fog(Extended for Citrix Xen)
 
 = ATTRIBUTES:
 
 = USAGE:
-
+add to new node during first-boot.
